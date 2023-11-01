@@ -42,3 +42,9 @@ body {
     height: 250px;
     margin: 0 auto;
   }
+  .imagetext {
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    display: inline-block;
+  }
