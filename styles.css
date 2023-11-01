@@ -47,3 +47,8 @@ body {
     color: white;
     font-size: 12px;
   }
+   .wrapper {
+    column-count: 2;
+    column-gap: 50px;
+    padding: 50px;
+   }
