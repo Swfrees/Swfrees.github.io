@@ -37,7 +37,7 @@ body {
     margin: 5px;
   }
   img {
-    text-align: center;
+    vertical-align: center;
     width: 25%;
     height: 50%;
     max-width: 100%;
