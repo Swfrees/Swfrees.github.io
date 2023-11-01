@@ -49,6 +49,6 @@ body {
   }
    .wrapper {
     column-count: 2;
-    column-gap: 50px;
-    padding: 50px;
+    column-gap: 10px;
+    padding: 10px;
    }
