@@ -37,7 +37,6 @@ body {
     margin: 5px;
   }
   img {
-    float: center;
     display: inline;
     text-align: center;
     width: 25%;
@@ -46,7 +45,6 @@ body {
     max-height: 100%;
   }
   span {
-    float: right;
     color: white;
     font-size: 24px;
   }
