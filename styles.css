@@ -46,7 +46,7 @@ body {
     max-height: 100%;
   }
   .container {
-    display: grid;
+    display: inline-grid;
     align-items: center; 
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 5px;
