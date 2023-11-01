@@ -42,10 +42,9 @@ body {
   }
 
   img{
-    display: block;
-    width: 500px;
-    height: 250px;
-    margin: 0 auto;
+    max-width: 320px;
+    float:left;
+    margin-right: 15px;
   }
   .text-box{
     color: white;
