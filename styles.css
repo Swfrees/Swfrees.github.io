@@ -24,10 +24,9 @@ body {
     font-size: 24px;
   }
   h2 {
-    color: crimson;
-    border: thin solid blue;
+    color: white;
     text-align: center;
-    font-size: 36px;
+    font-size: 24px;
   }
   .btn {
     text-decoration: none;
