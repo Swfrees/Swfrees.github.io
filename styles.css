@@ -37,8 +37,8 @@ body {
   }
   img {
     display: block;
-    width: 500px;
-    height: 250px;
+    width: 250px;
+    height: 125px;
     margin: 0 auto;
     float: left;
   }
@@ -46,4 +46,9 @@ body {
     content: "";
     clear: both;
     display: table;
+  }
+  .clearfix p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
   }
