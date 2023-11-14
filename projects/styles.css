@@ -58,14 +58,13 @@ body {
     font-size: 16px;
   }
 
-  table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
   }
-  td, th {
-    color: white;
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
+  .grid-item {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
   }
