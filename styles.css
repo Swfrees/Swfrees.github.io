@@ -42,11 +42,6 @@ body {
     margin: 0 auto;
     float: left;
   }
-  .clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
   .wrapper{
     margin: 50px auto;
     width: 70%;
