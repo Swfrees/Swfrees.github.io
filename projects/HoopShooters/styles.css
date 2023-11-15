@@ -37,8 +37,8 @@ body {
   }
   img {
     display: block;
-    width: 500px;
-    height: 250px;
+    width: 750px;
+    height: 500px;
     margin: 0 auto;
   }
 
@@ -47,7 +47,13 @@ body {
     grid-template-columns: auto auto;
     row-gap: 50px;
   }
-  .grid-item {
+  .grid-item p {
     font-size: 30px;
     text-align: center;
+  }
+  .grid-item img{
+    display: block;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
   }
