@@ -1,34 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
 body {
     background-color: black;
   }
   p {
+    font-family: 'Exo', sans-serif;
     color: white;
     text-align: center;
     font-size: 24px;
   }
   h1 {
+    font-family: 'Exo', sans-serif;
     color: crimson;
     border: thin solid blue;
     text-align: center;
     font-size: 36px;
   }
   footer {
+    font-family: 'Exo', sans-serif;
     color: crimson;
     border: thin solid blue;
     text-align: center;
     font-size: 36px;
   }
   li {
+    font-family: 'Exo', sans-serif;
     color: white;
     text-align: center;
     font-size: 20px;
   }
   h2 {
+    font-family: 'Exo', sans-serif;
     color: white;
     text-align: center;
     font-size: 26px;
   }
   .btn {
+    font-family: 'Exo', sans-serif;
     text-decoration: none;
     padding: 0.5rem;
     color: white;
