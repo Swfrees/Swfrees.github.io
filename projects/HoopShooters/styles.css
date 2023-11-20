@@ -1,44 +1,34 @@
-@font-face {
-  font-family: 'Exo'; /*a name to be used later*/
-  src: url('https://fonts.google.com/specimen/Exo'); /*URL to font*/
-}
 body {
     background-color: black;
   }
   p {
-    font-family: 'Exo';
     color: white;
     text-align: center;
     font-size: 24px;
   }
   h1 {
-    font-family: 'Exo';
     color: crimson;
     border: thin solid blue;
     text-align: center;
     font-size: 36px;
   }
   footer {
-    font-family: 'Exo';
     color: crimson;
     border: thin solid blue;
     text-align: center;
     font-size: 36px;
   }
   li {
-    font-family: 'Exo';
     color: white;
     text-align: center;
     font-size: 24px;
   }
   h2 {
-    font-family: 'Exo';
     color: white;
     text-align: center;
     font-size: 30px;
   }
   .btn {
-    font-family: 'Exo';
     text-decoration: none;
     padding: 0.5rem;
     color: white;
@@ -58,7 +48,6 @@ body {
     row-gap: 50px;
   }
   .grid-item p {
-    font-family: 'Exo';
     font-size: 30px;
     text-align: center;
   }
