@@ -1,1 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
+body {
+    background-color: black;
+  }
+  p {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+  }
+  h1 {
+    font-family: 'Exo', sans-serif;
+    color: crimson;
+    border: thin solid blue;
+    text-align: center;
+    font-size: 36px;
+  }
+  footer {
+    font-family: 'Exo', sans-serif;
+    color: crimson;
+    border: thin solid blue;
+    text-align: center;
+    font-size: 36px;
+  }
+  li {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+  }
+  h2 {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+  }
+  .btn {
+    font-family: 'Exo', sans-serif;
+    text-decoration: none;
+    padding: 0.5rem;
+    color: white;
+    border: 1px solid #adadad;
+    margin: 5px;
+  }
+  img {
+    display: block;
+    width: 750px;
+    height: 500px;
+    margin: 0 auto;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 50px;
+  }
+  .grid-item p {
+    font-family: 'Exo', sans-serif;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item img{
+    display: block;
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+
 
