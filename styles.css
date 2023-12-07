@@ -66,3 +66,19 @@ body {
     color: white;
     font-size: 24px;
   }
+  .label {
+    border-radius: 5px;
+    color: #fff;
+    font-size: 75%;
+    text-align: center;
+    padding: 5px;
+    line-height: normal;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+    display: inline-block;
+    margin-bottom: 0.25em;
+    margin-right: 0.25em;
+}
+.Code {
+  background-color: crimson;
+}
