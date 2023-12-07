@@ -65,6 +65,7 @@ body {
     font-family: 'Exo', sans-serif;
     color: white;
     font-size: 24px;
+    text-align: left;
   }
   .label {
     border-radius: 5px;
