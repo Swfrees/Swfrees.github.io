@@ -79,6 +79,12 @@ body {
     margin-bottom: 0.25em;
     margin-right: 0.25em;
 }
-.Code {
+.GameDev {
   background-color: crimson;
+}
+.GameDesign {
+background-color: limegreen;
+}
+.LevelDesign {
+background-color: blue;
 }
