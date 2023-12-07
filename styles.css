@@ -69,12 +69,11 @@ body {
   .label {
     border-radius: 5px;
     color: #fff;
-    font-size: 75%;
+    font-size: 24px;
     text-align: center;
-    padding: 5px;
     line-height: normal;
-    padding-left: 7.5px;
-    padding-right: 7.5px;
+    padding-left: 5px;
+    padding-right: 5px;
     display: inline-block;
     margin-bottom: 0.25em;
     margin-right: 0.25em;
