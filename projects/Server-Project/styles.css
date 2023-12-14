@@ -66,5 +66,19 @@ body {
     margin: 0 auto;
     margin-bottom: 10px;
   }
-
+  .label {
+    border-radius: 5px;
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    line-height: normal;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    margin-bottom: 0.25em;
+    margin-right: 0.25em;
+}
+  .GameDev {
+    background-color: crimson;
+  }
 
