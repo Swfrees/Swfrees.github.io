@@ -77,10 +77,16 @@ body {
     display: inline-block;
     margin-bottom: 0.25em;
     margin-right: 0.25em;
-}
-.GameDev {
-  background-color: crimson;
-}
-.LevelDesign {
-background-color: blue;
-}
+  }
+  .GameDev {
+    background-color: crimson;
+  }
+  .LevelDesign {
+    background-color: blue;
+  }
+  .text-box p {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 24px;
+    padding: 0px 150px;
+  }

@@ -81,3 +81,9 @@ body {
   .GameDev {
   background-color: crimson;
   }
+  .text-box p {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 24px;
+    padding: 0px 150px;
+  }
