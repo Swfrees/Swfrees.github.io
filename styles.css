@@ -77,13 +77,13 @@ body {
     display: inline-block;
     margin-bottom: 0.25em;
     margin-right: 0.25em;
-}
-.GameDev {
-  background-color: crimson;
-}
-.GameDesign {
-background-color: limegreen;
-}
-.LevelDesign {
-background-color: blue;
-}
+  }
+  .GameDev {
+    background-color: crimson;
+  }
+  .GameDesign {
+    background-color: limegreen;
+  }
+  .LevelDesign {
+    background-color: blue;
+  }
