@@ -87,3 +87,9 @@ background-color: limegreen;
 .LevelDesign {
 background-color: blue;
 }
+.text-box p {
+  font-family: 'Exo', sans-serif;
+  color: white;
+  font-size: 24px;
+  padding: auto 150px;
+}
