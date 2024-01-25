@@ -81,4 +81,18 @@ body {
   .GameDev {
     background-color: crimson;
   }
+  .text-box p {
+    font-family: 'Exo', sans-serif;
+    color: white;
+    font-size: 22px;
+    padding: 0px 150px;
+    text-align: left;
+  }
+  .text-box li{
+    font-family: 'Exo', sans-serif;
+    color: white;
+    text-align: left;
+    font-size: 22px;
+    padding: 0px 150px;
+  }
 

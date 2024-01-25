@@ -56,8 +56,9 @@ body {
   }
   .grid-item p {
     font-family: 'Exo', sans-serif;
-    font-size: 30px;
-    text-align: center;
+    font-size: 18px;
+    text-align: left;
+    padding: 0px 100px;
   }
   .grid-item img{
     display: block;
@@ -87,6 +88,14 @@ body {
   .text-box p {
     font-family: 'Exo', sans-serif;
     color: white;
-    font-size: 24px;
+    font-size: 22px;
+    padding: 0px 150px;
+    text-align: left;
+  }
+  .text-box li{
+    font-family: 'Exo', sans-serif;
+    color: white;
+    text-align: left;
+    font-size: 22px;
     padding: 0px 150px;
   }
