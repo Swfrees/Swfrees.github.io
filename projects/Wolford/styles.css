@@ -56,8 +56,8 @@ body {
   }
   .grid-item p {
     font-family: 'Exo', sans-serif;
-    font-size: 30px;
-    text-align: center;
+    font-size: 18px;
+    text-align: left;
   }
   .grid-item img{
     display: block;
